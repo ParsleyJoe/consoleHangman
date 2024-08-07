@@ -4,6 +4,9 @@
 #include <random>
 #include <vector>
 
+
+// Done I can make it better if I want though
+
 class Game
 {
 private:
